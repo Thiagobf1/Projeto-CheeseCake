@@ -11,7 +11,7 @@ Fins de estudos e prática de responsividade
 </p>
 
 <p align="center">
-  <img alt="License" src="">
+  <img alt="License" src="assets/cheesecake.jpg">
 </p>
 
 <br>
