@@ -12,13 +12,12 @@ Fins de estudos e prática de responsividade
 
 <p align="center">
   <img alt="License" src="assets/cheesecake.jpg">
+  width: 100%;
 </p>
 
 <br>
 
-<p align="center">
-  <img alt="projeto formulario" src="/github/cover.png" width="100%">
-</p>
+<p align="center"></p>
 
 ## 🚀 Tecnologias
 
